@@ -19,6 +19,9 @@ Este proyecto es parte del Trabajo Práctico 2 del curso de Laboratorio de Datos
    - Comparar distintos árboles de decisión mediante validación cruzada con k-folding.
    - Entrenar y evaluar el modelo seleccionado en un conjunto de datos de validación.
 
+## Redaccion de informe
+El informe es el archivo "tp2_laboDatos1c2024.pdf" donde se muestra el procedimiento que se necesito para realizar el trabajo practico.
+
 ## Conjunto de Datos
 
 El conjunto de datos EMNIST se puede descargar desde el siguiente enlace:
